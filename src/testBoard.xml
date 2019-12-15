@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Board size="9">
+	<Condition symbol = "=" value = "5">
+		<Cell>0,3</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "3">
+		<Cell>0,4</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "4">
+		<Cell>0,5</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "8">
+		<Cell>0,7</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "8">
+		<Cell>1,1</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "1">
+		<Cell>1,4</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "4">
+		<Cell>1,6</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "2">
+		<Cell>2,1</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "8">
+		<Cell>2,3</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "7">
+		<Cell>2,7</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "1">
+		<Cell>2,8</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "8">
+		<Cell>3,0</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "6">
+		<Cell>3,4</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "5">
+		<Cell>3,7</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "4">
+		<Cell>4,0</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "5">
+		<Cell>4,5</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "8">
+		<Cell>4,6</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "3">
+		<Cell>4,7</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "6">
+		<Cell>5,0</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "3">
+		<Cell>5,1</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "1">
+		<Cell>5,3</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "1">
+		<Cell>6,5</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "3">
+		<Cell>6,6</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "7">
+		<Cell>7,4</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "1">
+		<Cell>8,1</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "6">
+		<Cell>8,2</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "2">
+		<Cell>8,3</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "362880">
+		<Cell>0,0</Cell>
+		<Cell>0,1</Cell>
+		<Cell>0,2</Cell>
+		<Cell>1,0</Cell>
+		<Cell>1,1</Cell>
+		<Cell>1,2</Cell>
+		<Cell>2,0</Cell>
+		<Cell>2,1</Cell>
+		<Cell>2,2</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "362880">
+		<Cell>3,0</Cell>
+		<Cell>3,1</Cell>
+		<Cell>3,2</Cell>
+		<Cell>4,0</Cell>
+		<Cell>4,1</Cell>
+		<Cell>4,2</Cell>
+		<Cell>5,0</Cell>
+		<Cell>5,1</Cell>
+		<Cell>5,2</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "362880">
+		<Cell>6,0</Cell>
+		<Cell>6,1</Cell>
+		<Cell>6,2</Cell>
+		<Cell>7,0</Cell>
+		<Cell>7,1</Cell>
+		<Cell>7,2</Cell>
+		<Cell>8,0</Cell>
+		<Cell>8,1</Cell>
+		<Cell>8,2</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "362880">
+		<Cell>0,3</Cell>
+		<Cell>0,4</Cell>
+		<Cell>0,5</Cell>
+		<Cell>1,3</Cell>
+		<Cell>1,4</Cell>
+		<Cell>1,5</Cell>
+		<Cell>2,3</Cell>
+		<Cell>2,4</Cell>
+		<Cell>2,5</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "362880">
+		<Cell>3,3</Cell>
+		<Cell>3,4</Cell>
+		<Cell>3,5</Cell>
+		<Cell>4,3</Cell>
+		<Cell>4,4</Cell>
+		<Cell>4,5</Cell>
+		<Cell>5,3</Cell>
+		<Cell>5,4</Cell>
+		<Cell>5,5</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "362880">
+		<Cell>6,3</Cell>
+		<Cell>6,4</Cell>
+		<Cell>6,5</Cell>
+		<Cell>7,3</Cell>
+		<Cell>7,4</Cell>
+		<Cell>7,5</Cell>
+		<Cell>8,3</Cell>
+		<Cell>8,4</Cell>
+		<Cell>8,5</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "362880">
+		<Cell>0,6</Cell>
+		<Cell>0,7</Cell>
+		<Cell>0,8</Cell>
+		<Cell>1,6</Cell>
+		<Cell>1,7</Cell>
+		<Cell>1,8</Cell>
+		<Cell>2,6</Cell>
+		<Cell>2,7</Cell>
+		<Cell>2,8</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "362880">
+		<Cell>3,6</Cell>
+		<Cell>3,7</Cell>
+		<Cell>3,8</Cell>
+		<Cell>4,6</Cell>
+		<Cell>4,7</Cell>
+		<Cell>4,8</Cell>
+		<Cell>5,6</Cell>
+		<Cell>5,7</Cell>
+		<Cell>5,8</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "362880">
+		<Cell>6,6</Cell>
+		<Cell>6,7</Cell>
+		<Cell>6,8</Cell>
+		<Cell>7,6</Cell>
+		<Cell>7,7</Cell>
+		<Cell>7,8</Cell>
+		<Cell>8,6</Cell>
+		<Cell>8,7</Cell>
+		<Cell>8,8</Cell>
+	</Condition>
+	<Condition symbol = "+" value = "45">
+		<Cell>0,0</Cell>
+		<Cell>0,1</Cell>
+		<Cell>0,2</Cell>
+		<Cell>1,0</Cell>
+		<Cell>1,1</Cell>
+		<Cell>1,2</Cell>
+		<Cell>2,0</Cell>
+		<Cell>2,1</Cell>
+		<Cell>2,2</Cell>
+	</Condition>
+	<Condition symbol = "+" value = "45">
+		<Cell>3,0</Cell>
+		<Cell>3,1</Cell>
+		<Cell>3,2</Cell>
+		<Cell>4,0</Cell>
+		<Cell>4,1</Cell>
+		<Cell>4,2</Cell>
+		<Cell>5,0</Cell>
+		<Cell>5,1</Cell>
+		<Cell>5,2</Cell>
+	</Condition>
+	<Condition symbol = "+" value = "45">
+		<Cell>6,0</Cell>
+		<Cell>6,1</Cell>
+		<Cell>6,2</Cell>
+		<Cell>7,0</Cell>
+		<Cell>7,1</Cell>
+		<Cell>7,2</Cell>
+		<Cell>8,0</Cell>
+		<Cell>8,1</Cell>
+		<Cell>8,2</Cell>
+	</Condition>
+	<Condition symbol = "+" value = "45">
+		<Cell>0,3</Cell>
+		<Cell>0,4</Cell>
+		<Cell>0,5</Cell>
+		<Cell>1,3</Cell>
+		<Cell>1,4</Cell>
+		<Cell>1,5</Cell>
+		<Cell>2,3</Cell>
+		<Cell>2,4</Cell>
+		<Cell>2,5</Cell>
+	</Condition>
+	<Condition symbol = "+" value = "45">
+		<Cell>3,3</Cell>
+		<Cell>3,4</Cell>
+		<Cell>3,5</Cell>
+		<Cell>4,3</Cell>
+		<Cell>4,4</Cell>
+		<Cell>4,5</Cell>
+		<Cell>5,3</Cell>
+		<Cell>5,4</Cell>
+		<Cell>5,5</Cell>
+	</Condition>
+	<Condition symbol = "+" value = "45">
+		<Cell>6,3</Cell>
+		<Cell>6,4</Cell>
+		<Cell>6,5</Cell>
+		<Cell>7,3</Cell>
+		<Cell>7,4</Cell>
+		<Cell>7,5</Cell>
+		<Cell>8,3</Cell>
+		<Cell>8,4</Cell>
+		<Cell>8,5</Cell>
+	</Condition>
+	<Condition symbol = "+" value = "45">
+		<Cell>0,6</Cell>
+		<Cell>0,7</Cell>
+		<Cell>0,8</Cell>
+		<Cell>1,6</Cell>
+		<Cell>1,7</Cell>
+		<Cell>1,8</Cell>
+		<Cell>2,6</Cell>
+		<Cell>2,7</Cell>
+		<Cell>2,8</Cell>
+	</Condition>
+	<Condition symbol = "+" value = "45">
+		<Cell>3,6</Cell>
+		<Cell>3,7</Cell>
+		<Cell>3,8</Cell>
+		<Cell>4,6</Cell>
+		<Cell>4,7</Cell>
+		<Cell>4,8</Cell>
+		<Cell>5,6</Cell>
+		<Cell>5,7</Cell>
+		<Cell>5,8</Cell>
+	</Condition>
+	<Condition symbol = "+" value = "45">
+		<Cell>6,6</Cell>
+		<Cell>6,7</Cell>
+		<Cell>6,8</Cell>
+		<Cell>7,6</Cell>
+		<Cell>7,7</Cell>
+		<Cell>7,8</Cell>
+		<Cell>8,6</Cell>
+		<Cell>8,7</Cell>
+		<Cell>8,8</Cell>
+	</Condition>
+</Board>

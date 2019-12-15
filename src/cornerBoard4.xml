@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Board size="4" Print="true">
+	<Condition symbol = "+" value = "10">
+		<Cell>0,0</Cell>
+		<Cell>3,0</Cell>
+		<Cell>0,3</Cell>
+		<Cell>3,3</Cell>
+	</Condition>
+	<!--Condition symbol = "=" value = "4">
+		<Cell>3,3</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "1">
+		<Cell>0,3</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "4">
+		<Cell>0,0</Cell>
+	</Condition>
+	<Condition symbol = "=" value = "1">
+		<Cell>3,0</Cell>
+	</Condition-->
+
+</Board>

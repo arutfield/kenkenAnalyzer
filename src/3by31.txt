@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Board size="3" Print="true">
+	<Condition symbol = "-" value = "1">
+		<Cell>0,0</Cell>
+		<Cell>0,1</Cell>
+	</Condition>
+	<Condition symbol = "-" value = "1">
+		<Cell>0,2</Cell>
+		<Cell>2,1</Cell>
+	</Condition>
+	<Condition symbol = "*" value = "9">
+		<Cell>1,0</Cell>
+		<Cell>1,1</Cell>
+		<Cell>2,0</Cell>
+	</Condition>
+	<Condition symbol = "/" value = "2">
+		<Cell>2,1</Cell>
+		<Cell>2,2</Cell>
+	</Condition>
+</Board>

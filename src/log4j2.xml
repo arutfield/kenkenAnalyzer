@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+    <Appenders>
+        <RollingFile name="MyFile" fileName="kenken.log" filePattern="kenken.%i.log" immediateFlush="false" append="false">
+            <PatternLayout pattern="%msg%n"/>
+<Policies>
+        <SizeBasedTriggeringPolicy size="20MB" />
+    </Policies>
+<DefaultRolloverStrategy max="3000" />
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="MyFile"/>
+        </Root>
+    </Loggers>
+</Configuration>

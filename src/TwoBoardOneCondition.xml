@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Board size="2">
+	<Condition symbol = "=" value = "2">
+		<Cell>0,0</Cell>
+	</Condition>
+</Board>
